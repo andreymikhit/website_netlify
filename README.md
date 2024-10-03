@@ -11,6 +11,8 @@
 * than _add file_ __index.html__ and __/dist/style.css__ to repository _yourgithubusername.github.io_
 * __index.html__ like:
 
+> [!IMPORTANT]
+> Your own website
 ```html
  <!DOCTYPE html>
  <html lang="en">
