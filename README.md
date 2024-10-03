@@ -58,8 +58,7 @@ __Deploy__ username.github.io
   <p>
     <label>Email <input type="email" name="email" /></label>
   </p>
-    <label>Message <input type="message" name="message" /></label>
-  <p>
+    <label>Message: <textarea name="message"></textarea></label>  <p>
     <button type="submit">Send</button>
   </p>
 </form>
