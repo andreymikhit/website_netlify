@@ -9,7 +9,21 @@
   * click on the “New” button on the top left side to create a new repository like _yourgithubusername.github.io_.
   * than _add file_ __index.html__ and __style.css__ to repository _yourgithubusername.github.io_
 * index.html
-<php>nano</php>
+<html>
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Пример веб-страницы</title>
+ </head>
+ <body>
+  <h1>Заголовок</h1>
+  <!-- Комментарий -->
+  <p>Первый абзац.</p>
+  <p>Второй абзац.</p>
+ </body>
+</html>
+</html>
    
 ---
 
