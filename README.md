@@ -8,7 +8,9 @@
 * Step 1: Log in to Github
   * click on the “New” button on the top left side to create a new repository like _yourgithubusername.github.io_.
   * than _add file_ __index.html__ and __style.css__ to repository _yourgithubusername.github.io_
-* 
+* index.html
+<html>nano</html>
+   
 ---
 
 ### Step 1: Add your new site
