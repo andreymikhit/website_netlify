@@ -1,10 +1,9 @@
 # websity_netlify
----
+
 # How to Publish an HTML Website on Netlify & Github
----
 
 ## How to Publish a Website on Netlify
----
+
 ### Step 1: Add your new site
 Click the New site from git button to add your new website to Netlify.
 
@@ -29,7 +28,6 @@ Right now, your URL looks random, but you can edit it by clicking the Site setti
 Congratulation on publishing your first new website! Now we'll learn how to publish a website with GitHub.
 
 ## How to Publish a Website on GitHub
----
 
 The second method we'll look at uses GitHub to publish your site. GitHub is a platform for storing, tracking, and managing project source code. It is also where you can publish your HTML website – and like Netlify, it is free to host here.
 Here's the step-by-step process of publishing your website on GitHub:
