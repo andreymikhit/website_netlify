@@ -36,12 +36,48 @@
 ```
 
 ### Step 2: Go to netlify.com
-Build command: (empty)
-Publish directory: build/
+* Import an existing project
+* Choose _Github_ Let’s deploy your project with… _username.github.io_
+* Review configuration for username.github.io
+ * Team: username's team
+ * Site name: (empty)
+ * Branch to deploy: main
+ * Base directory: (empty)
+ * Build command: (empty)
+ * Publish directory: (empty)
+__Deploy__ username.github.io
 
-### Step 3:
+### Step 3: Enable visual editing for resilient-*
 
-### Step 4:
+### Step 4: Contact forms
+```html
+<form
+  name="contact"
+  method="POST"
+  netlify-honeypot="bot-field"
+  data-netlify="true"
+>
+  <p class="hidden">
+    <label>
+      Don’t fill this out if you’re human: <input name="bot-field" />
+    </label>
+  </p>
+  <p>
+    <label>
+      Email: <input type="text" name="email" />
+    </label>
+  </p>
+  <p>
+    <label>
+      Message: <textarea name="message"></textarea>
+    </label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+```
+
 
 ### Step 5:
 
