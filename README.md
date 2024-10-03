@@ -38,7 +38,7 @@
 ### Step 2: Go to netlify.com
 <ol>
   <li>Import an existing project</li>
-  <li>Choose _Github_ Let’s deploy your project with… _username.github.io_</li>
+  <li>Choose Github Let’s deploy your project with username.github.io</li>
   <li>Review configuration for username.github.io</li>
   <ol>
   <li>Team: username's team</li>
@@ -48,7 +48,7 @@
   <li>Build command: (empty)</li>
   <li>Publish directory: (empty)</li>
   </ol>
-  <li>__Deploy__ username.github.io</li>
+  <li>Deploy username.github.io</li>
 
 ### Step 3: Enable visual editing for resilient-*
 
