@@ -51,7 +51,10 @@ And you are done! Your website will be published, and it will take only a minute
 Conclusion
 I hope you've found this tutorial helpful. You have learned how to publish your HTML website with Netlify and GitHub. Now you can go ahead and show the world of your incredible work.
 
-Source:
+### Source:
+
 > [Netlify](https://www.netlify.com/)
+
 > [Publish your website netlify github](https://www.freecodecamp.org/news/publish-your-website-netlify-github/)
+
 > [Github pages vs netlify](https://www.aleksandrhovhannisyan.com/blog/github-pages-vs-netlify/)
