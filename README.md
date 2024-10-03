@@ -55,6 +55,7 @@
 ### Step 3: Enable visual editing for resilient-*
 
 ### Step 4: Contact forms
+Add to __index.html__:
 ```html
 <form name="contact" netlify>
   <p>
@@ -68,7 +69,6 @@
   </p>
 </form>
 ```
-
 
 ### Step 5:
 
