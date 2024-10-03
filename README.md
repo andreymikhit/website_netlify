@@ -10,7 +10,7 @@
   * than _add file_ __index.html__ and __style.css__ to repository _yourgithubusername.github.io_
 * index.html fill out with:
 
-'''html
+```html
  <!DOCTYPE html>
  <html>
   <head>
@@ -24,7 +24,7 @@
    <p>Второй абзац.</p>
   </body>
  </html>
-'''
+```
 
 ---
 
