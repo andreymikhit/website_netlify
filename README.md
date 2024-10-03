@@ -55,6 +55,8 @@ I hope you've found this tutorial helpful. You have learned how to publish your 
 
 > [Netlify](https://www.netlify.com/)
 
+> [Get started with Netlify](https://docs.netlify.com/get-started/)
+
 > [Publish your website netlify github](https://www.freecodecamp.org/news/publish-your-website-netlify-github/)
 
 > [Github pages vs netlify](https://www.aleksandrhovhannisyan.com/blog/github-pages-vs-netlify/)
