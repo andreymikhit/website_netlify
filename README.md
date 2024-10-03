@@ -10,7 +10,7 @@
   * than _add file_ __index.html__ and __style.css__ to repository _yourgithubusername.github.io_
 * index.html fill out with:
 
-(php)
+'''html
  <!DOCTYPE html>
  <html>
   <head>
@@ -24,7 +24,7 @@
    <p>Второй абзац.</p>
   </body>
  </html>
-(/php)
+'''/php
 
 ---
 
@@ -84,3 +84,5 @@ I hope you've found this tutorial helpful. You have learned how to publish your 
 > [Publish your website netlify github](https://www.freecodecamp.org/news/publish-your-website-netlify-github/)
 
 > [Github pages vs netlify](https://www.aleksandrhovhannisyan.com/blog/github-pages-vs-netlify/)
+
+> [Beginners guide github netlify](https://sjinnovation.com/beginners-guide-deploy-super-fast-website-nelify-or-github-within-minutes)
