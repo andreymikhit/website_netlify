@@ -16,6 +16,7 @@
   <head>
    <meta charset="utf-8">
    <title>Пример веб-страницы</title>
+   <link rel="stylesheet" href="./style.css">
   </head>
   <body>
    <h1>Заголовок</h1>
